@@ -1,4 +1,6 @@
-# React Template
+# Code Quality Friendly React Template
+
+![toole included](https://user-images.githubusercontent.com/1719915/157990831-0d6ef07f-ea0a-4aa3-a843-eff9e3b794ac.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
